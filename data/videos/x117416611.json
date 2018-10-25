@@ -1,0 +1,97 @@
+{
+    "title": "Kitchen Master Easy-Hold Mandoline Slicer with Lemon Squeezer",
+    "description": "",
+    "referenceId": "12912547",
+    "category": null,
+    "date_created": "1505165485",
+    "date_modified": "1505167001",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "concept": null,
+    "homepage_gallery": null,
+    "living": null,
+    "user_id": "0",
+    "id": "117416611",
+    "loginId": "1758991",
+    "entityType": "1",
+    "titleTextEncoded": "kitchen-master-easy-hold-mandoline-slicer-with-lemon-squeezer",
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 824.5344,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "208",
+    "settings": "",
+    "asset": {
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758991\/117416611\/42aa4\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 724,
+                "height": 408
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758991\/117416611\/42aa4\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 724,
+                "height": 408
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758991\/117416611\/42aa4\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 724,
+                "height": 408
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758991\/117416611\/42aa4\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758991\/117416611\/42aa4\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "videoMeta": {
+            "duration": "208",
+            "width": 724,
+            "height": 408
+        },
+        "mediaDuration": "208",
+        "prettyDuration": "00:03:28",
+        "thumbnailUrl": "\/\/v-dev.tvpage.com\/1758991\/117416611\/thumbnail\/image-thumbnail-640-3e44a325bbafcd1e38676f61672d14f1.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758991\/117416611\/42aa4\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758991\/117416611\/42aa4\/media.m3u8",
+        "automaticThumbnailsPattern": "1758991\/117416611\/42aa4\/thumb-12912547-{count}",
+        "selectableThumbnails": [
+            "\/\/v-dev.tvpage.com\/1758991\/117416611\/user-images\/image-724-ccd7ec6bb56a728353bf92a342ddaff9.jpg"
+        ],
+        "selectedThumbnailUrl": "\/\/v-dev.tvpage.com\/1758991\/117416611\/user-images\/image-724-ccd7ec6bb56a728353bf92a342ddaff9.jpg",
+        "thumbnails": {
+            "256": "\/\/v-dev.tvpage.com\/1758991\/117416611\/thumbnail\/image-thumbnail-256-4012d9b7b53635e3b1c5ca0c5d4846b5.jpg",
+            "480": "\/\/v-dev.tvpage.com\/1758991\/117416611\/thumbnail\/image-thumbnail-480-a0d5da488daebcafbdfd396835f0cd88.jpg",
+            "640": "\/\/v-dev.tvpage.com\/1758991\/117416611\/thumbnail\/image-thumbnail-640-3e44a325bbafcd1e38676f61672d14f1.jpg"
+        }
+    },
+    "transcripts": "",
+    "metrics_statistics": "",
+    "uploader": "",
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

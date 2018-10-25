@@ -1,0 +1,108 @@
+{
+    "title": "New video testing",
+    "description": "",
+    "referenceId": "2126e4c54f1dddd1d6b1c01e8723af4f",
+    "category": null,
+    "date_created": "1534984383",
+    "date_modified": "1535161099",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "concept": null,
+    "homepage_gallery": null,
+    "living": null,
+    "user_id": "111",
+    "id": "164995141",
+    "loginId": "1758991",
+    "entityType": "1",
+    "titleTextEncoded": "media-1",
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": "",
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "98",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "98",
+            "width": 480,
+            "height": 270
+        },
+        "mediaDuration": "98",
+        "prettyDuration": "00:01:38",
+        "automaticThumbnailsPattern": "1758991\/164995141\/85f95\/thumb-2126e4c54f1dddd1d6b1c01e8723af4f-{count}",
+        "selectableThumbnails": [
+            "\/\/v-dev.tvpage.com\/1758991\/164995141\/85f95\/thumb-2126e4c54f1dddd1d6b1c01e8723af4f-00006.jpg",
+            "\/\/v-dev.tvpage.com\/1758991\/164995141\/85f95\/thumb-2126e4c54f1dddd1d6b1c01e8723af4f-00005.jpg",
+            "\/\/v-dev.tvpage.com\/1758991\/164995141\/85f95\/thumb-2126e4c54f1dddd1d6b1c01e8723af4f-00004.jpg",
+            "\/\/v-dev.tvpage.com\/1758991\/164995141\/85f95\/thumb-2126e4c54f1dddd1d6b1c01e8723af4f-00003.jpg",
+            "\/\/v-dev.tvpage.com\/1758991\/164995141\/85f95\/thumb-2126e4c54f1dddd1d6b1c01e8723af4f-00002.jpg",
+            "\/\/v-dev.tvpage.com\/1758991\/164995141\/85f95\/thumb-2126e4c54f1dddd1d6b1c01e8723af4f-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v-dev.tvpage.com\/1758991\/164995141\/thumbnail\/image-thumbnail-256-3ae8fd51a9f5cc7f8d8e7b20cff302b0.jpg",
+            "480": "\/\/v-dev.tvpage.com\/1758991\/164995141\/thumbnail\/image-thumbnail-480-43e6e3c1b335722e9bab95f13e289dea.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v-dev.tvpage.com\/1758991\/164995141\/85f95\/thumb-2126e4c54f1dddd1d6b1c01e8723af4f-00005.jpg",
+        "thumbnailUrl": "\/\/v-dev.tvpage.com\/1758991\/164995141\/thumbnail\/image-thumbnail-480-43e6e3c1b335722e9bab95f13e289dea.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v-dev.tvpage.com\/1758991\/164995141\/85f95\/media.mpd",
+        "hlsUrl": "\/\/v-dev.tvpage.com\/1758991\/164995141\/85f95\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v-dev.tvpage.com\/1758991\/164995141\/85f95\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 270
+            },
+            {
+                "file": "\/\/v-dev.tvpage.com\/1758991\/164995141\/85f95\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 270
+            },
+            {
+                "file": "\/\/v-dev.tvpage.com\/1758991\/164995141\/85f95\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 270
+            },
+            {
+                "file": "\/\/v-dev.tvpage.com\/1758991\/164995141\/85f95\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 270
+            },
+            {
+                "file": "\/\/v-dev.tvpage.com\/1758991\/164995141\/85f95\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "",
+    "metrics_statistics": "",
+    "uploader": "",
+    "tvp_enhanced_search": "",
+    "tvp_enhanced_anti": "",
+    "tvp_enhanced_brand": "",
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": ""
+}
