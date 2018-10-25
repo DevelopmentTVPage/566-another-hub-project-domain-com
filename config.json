@@ -1,0 +1,16 @@
+{
+    "title": "Another Project",
+    "baseURL": "https:\/\/another-hub-project.domain.com",
+    "languageCode": "en-us",
+    "theme": "tvpage",
+    "defaultContentLanguage": "none",
+    "disablePathToLower": true,
+    "enableRobotsTXT": true,
+    "galleryChannelIds": "",
+    "params": {
+        "loginId": "1758991",
+        "subfolder": "",
+        "firstpartycookies": true,
+        "cookiedomain": "domain.com"
+    }
+}
