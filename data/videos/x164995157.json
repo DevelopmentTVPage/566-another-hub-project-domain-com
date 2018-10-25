@@ -1,0 +1,103 @@
+{
+    "title": "From GoPro: The New GoPro Experience",
+    "description": "From GoPro: The New GoPro Experience",
+    "referenceId": "117083",
+    "category": null,
+    "date_created": "1539048138",
+    "date_modified": "1539291251",
+    "tags": "Home,Vendor",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "concept": null,
+    "homepage_gallery": null,
+    "living": null,
+    "user_id": "111",
+    "id": "164995157",
+    "loginId": "1758991",
+    "entityType": "1",
+    "titleTextEncoded": "from-gopro-the-new-gopro-experience",
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": "",
+    "VIDEO_LENGTH": "LONG",
+    "duration": "264",
+    "settings": "",
+    "asset": {
+        "sources": [
+            {
+                "file": "\/\/v-dev.tvpage.com\/1758991\/164995157\/f95de\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v-dev.tvpage.com\/1758991\/164995157\/f95de\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v-dev.tvpage.com\/1758991\/164995157\/f95de\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v-dev.tvpage.com\/1758991\/164995157\/f95de\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v-dev.tvpage.com\/1758991\/164995157\/f95de\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "videoMeta": {
+            "duration": "264",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "264",
+        "prettyDuration": "00:04:24",
+        "automaticThumbnailsPattern": "1758991\/164995157\/f95de\/thumb-117083-{count}",
+        "selectableThumbnails": [
+            "\/\/v-dev.tvpage.com\/1758991\/164995157\/f95de\/thumb-117083-00006.jpg",
+            "\/\/v-dev.tvpage.com\/1758991\/164995157\/f95de\/thumb-117083-00005.jpg",
+            "\/\/v-dev.tvpage.com\/1758991\/164995157\/f95de\/thumb-117083-00004.jpg",
+            "\/\/v-dev.tvpage.com\/1758991\/164995157\/f95de\/thumb-117083-00003.jpg",
+            "\/\/v-dev.tvpage.com\/1758991\/164995157\/f95de\/thumb-117083-00002.jpg",
+            "\/\/v-dev.tvpage.com\/1758991\/164995157\/f95de\/thumb-117083-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v-dev.tvpage.com\/1758991\/164995157\/thumbnail\/image-thumbnail-256-275c1ebc286d5b247767ed3e162cc378.jpg",
+            "480": "\/\/v-dev.tvpage.com\/1758991\/164995157\/thumbnail\/image-thumbnail-480-6fbb5608577a4b778e41d107ba1215b4.jpg",
+            "640": "\/\/v-dev.tvpage.com\/1758991\/164995157\/thumbnail\/image-thumbnail-640-354d221f1afba4e3661123d2416d6551.jpg",
+            "1280": "\/\/v-dev.tvpage.com\/1758991\/164995157\/thumbnail\/image-thumbnail-1280-64ee46b3a921443725e004a13577df64.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v-dev.tvpage.com\/1758991\/164995157\/http___e.invodo.com_media_lib_92_video_58YLTYWB_1280x720_spec17035_pre_video_still_at_259s.jpg",
+        "thumbnailUrl": "\/\/v-dev.tvpage.com\/1758991\/164995157\/http___e.invodo.com_media_lib_92_video_58YLTYWB_1280x720_spec17035_pre_video_still_at_259s.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v-dev.tvpage.com\/1758991\/164995157\/f95de\/media.mpd",
+        "hlsUrl": "\/\/v-dev.tvpage.com\/1758991\/164995157\/f95de\/media.m3u8"
+    },
+    "transcripts": "",
+    "metrics_statistics": "",
+    "uploader": "",
+    "tvp_enhanced_search": "",
+    "tvp_enhanced_anti": "",
+    "tvp_enhanced_brand": "",
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": ""
+}

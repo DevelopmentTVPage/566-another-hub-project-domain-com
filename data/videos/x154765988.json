@@ -1,0 +1,105 @@
+{
+    "title": "1080p_media.mp4",
+    "description": "",
+    "referenceId": "1497aec65f81a59cc8b19ab8c169b131",
+    "category": null,
+    "date_created": "1521076522",
+    "date_modified": "1538599996",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "concept": null,
+    "homepage_gallery": null,
+    "living": null,
+    "user_id": "0",
+    "id": "154765988",
+    "loginId": "1758991",
+    "entityType": "1",
+    "titleTextEncoded": "1080p-media-mp4",
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": "",
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 16,
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": 16,
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": 16,
+        "prettyDuration": "00:00:16",
+        "thumbnailUrl": "\/\/v-dev.tvpage.com\/1758991\/154765988\/thumbnail\/image-thumbnail-640-ca04b7c99cfae14cbfb592f638dc6aff.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758991\/154765988\/f65f6\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758991\/154765988\/f65f6\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "selectableThumbnails": [
+            "\/\/v-dev.tvpage.com\/1758991\/154765988\/user-images\/image-1920-fb1fcbb070129f0e18672c9a4e70cbd3.jpg"
+        ],
+        "selectedThumbnailUrl": "\/\/v-dev.tvpage.com\/1758991\/154765988\/user-images\/image-1920-fb1fcbb070129f0e18672c9a4e70cbd3.jpg",
+        "thumbnails": {
+            "256": "\/\/v-dev.tvpage.com\/1758991\/154765988\/thumbnail\/image-thumbnail-256-1ebb04bb27f23e413ee7e5403f3e4e7c.jpg",
+            "480": "\/\/v-dev.tvpage.com\/1758991\/154765988\/thumbnail\/image-thumbnail-480-858799c402c306eb1c80742db5eaace3.jpg",
+            "640": "\/\/v-dev.tvpage.com\/1758991\/154765988\/thumbnail\/image-thumbnail-640-ca04b7c99cfae14cbfb592f638dc6aff.jpg",
+            "1280": "\/\/v-dev.tvpage.com\/1758991\/154765988\/thumbnail\/image-thumbnail-1280-d8308490d685fa424646425786c17d31.jpg",
+            "1920": "\/\/v-dev.tvpage.com\/1758991\/154765988\/thumbnail\/image-thumbnail-1920-010b1a5d909dacdbbcc962bbf988d6e7.jpg"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758991\/154765988\/f65f6\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758991\/154765988\/f65f6\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758991\/154765988\/f65f6\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758991\/154765988\/f65f6\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758991\/154765988\/f65f6\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "",
+    "metrics_statistics": "",
+    "uploader": "",
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}
